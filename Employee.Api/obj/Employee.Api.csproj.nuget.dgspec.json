@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\MachineTest\\Employee.Api\\Employee.Api\\Employee.Api.csproj": {}
+  },
+  "projects": {
+    "F:\\MachineTest\\Employee.Api\\Employee.Api\\Employee.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MachineTest\\Employee.Api\\Employee.Api\\Employee.Api.csproj",
+        "projectName": "Employee.Api",
+        "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Api\\Employee.Api.csproj",
+        "packagesPath": "C:\\Users\\JOBIN\\.nuget\\packages\\",
+        "outputPath": "F:\\MachineTest\\Employee.Api\\Employee.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JOBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Educational\\WEBAPI\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj": {
+                "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj"
+              },
+              "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj": {
+                "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj"
+              },
+              "F:\\MachineTest\\Employee.Api\\Employee.Data\\Employee.Data.csproj": {
+                "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Data\\Employee.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.26.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj",
+        "projectName": "Employee.Common",
+        "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj",
+        "packagesPath": "C:\\Users\\JOBIN\\.nuget\\packages\\",
+        "outputPath": "F:\\MachineTest\\Employee.Api\\Employee.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JOBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Educational\\WEBAPI\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj",
+        "projectName": "Employee.DataContracts",
+        "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj",
+        "packagesPath": "C:\\Users\\JOBIN\\.nuget\\packages\\",
+        "outputPath": "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JOBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Educational\\WEBAPI\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MachineTest\\Employee.Api\\Employee.Data\\Employee.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MachineTest\\Employee.Api\\Employee.Data\\Employee.Data.csproj",
+        "projectName": "Employee.Data",
+        "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Data\\Employee.Data.csproj",
+        "packagesPath": "C:\\Users\\JOBIN\\.nuget\\packages\\",
+        "outputPath": "F:\\MachineTest\\Employee.Api\\Employee.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JOBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Educational\\WEBAPI\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj": {
+                "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.Common\\Employee.Common.csproj"
+              },
+              "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj": {
+                "projectPath": "F:\\MachineTest\\Employee.Api\\Employee.DataContracts\\Employee.DataContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

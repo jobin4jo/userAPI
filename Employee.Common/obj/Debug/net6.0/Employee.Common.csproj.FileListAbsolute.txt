@@ -1,0 +1,12 @@
+F:\MachineTest\Employee.Api\Employee.Common\bin\Debug\net6.0\Employee.Common.deps.json
+F:\MachineTest\Employee.Api\Employee.Common\bin\Debug\net6.0\Employee.Common.dll
+F:\MachineTest\Employee.Api\Employee.Common\bin\Debug\net6.0\Employee.Common.pdb
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.csproj.AssemblyReference.cache
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.AssemblyInfoInputs.cache
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.AssemblyInfo.cs
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.csproj.CoreCompileInputs.cache
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.dll
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\refint\Employee.Common.dll
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\Employee.Common.pdb
+F:\MachineTest\Employee.Api\Employee.Common\obj\Debug\net6.0\ref\Employee.Common.dll

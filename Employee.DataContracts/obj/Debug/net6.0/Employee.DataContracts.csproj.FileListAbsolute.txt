@@ -1,0 +1,12 @@
+F:\MachineTest\Employee.Api\Employee.DataContracts\bin\Debug\net6.0\Employee.DataContracts.deps.json
+F:\MachineTest\Employee.Api\Employee.DataContracts\bin\Debug\net6.0\Employee.DataContracts.dll
+F:\MachineTest\Employee.Api\Employee.DataContracts\bin\Debug\net6.0\Employee.DataContracts.pdb
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.csproj.AssemblyReference.cache
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.AssemblyInfoInputs.cache
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.AssemblyInfo.cs
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.csproj.CoreCompileInputs.cache
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.dll
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\refint\Employee.DataContracts.dll
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\Employee.DataContracts.pdb
+F:\MachineTest\Employee.Api\Employee.DataContracts\obj\Debug\net6.0\ref\Employee.DataContracts.dll

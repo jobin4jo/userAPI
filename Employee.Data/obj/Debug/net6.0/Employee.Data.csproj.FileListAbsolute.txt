@@ -1,0 +1,17 @@
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.Data.deps.json
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.Data.dll
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.Data.pdb
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.Common.dll
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.DataContracts.dll
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.Common.pdb
+F:\MachineTest\Employee.Api\Employee.Data\bin\Debug\net6.0\Employee.DataContracts.pdb
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.csproj.AssemblyReference.cache
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.AssemblyInfoInputs.cache
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.AssemblyInfo.cs
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.csproj.CoreCompileInputs.cache
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.csproj.CopyComplete
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.dll
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\refint\Employee.Data.dll
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\Employee.Data.pdb
+F:\MachineTest\Employee.Api\Employee.Data\obj\Debug\net6.0\ref\Employee.Data.dll
